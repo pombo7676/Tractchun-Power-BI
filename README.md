@@ -1,4 +1,4 @@
-# Tractchun-Tickets-Power-BI
+# Tractchun Tickets Power BI
 
 ![Dashboard](https://github.com/pombo7676/Tractchun-Power-BI/blob/main/Data/Dashboard.JPG)
 
