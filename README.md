@@ -1,6 +1,6 @@
 # Videogames-Sale-Power-BI
 
-![Dashboard](https://github.com/pombo7676/Videogames-Sale-Power-BI/blob/main/Data/Dashboard.JPG)
+![Dashboard](https://github.com/pombo7676/Tractchun-Power-BI/blob/main/Data/Dashboard.JPG)
 
 ## Access link to Power BI Dashboard:
 
